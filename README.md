@@ -1,5 +1,5 @@
 <h1 align="center">Hey 😊, I'm Tohidul Islam Rupok</h1>
-<h3 align="center">Backend Developer | Python Django Enthusiast | Exploring Machine Learning 122</h3>
+<h3 align="center">Backend Developer | Python Django Enthusiast | Exploring Machine Learning </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tohidrupok&label=Profile%20views&color=0e75b6&style=flat" alt="tohidrupok" />
