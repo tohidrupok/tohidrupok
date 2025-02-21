@@ -1,4 +1,4 @@
-<h1 align="center">HHello 😊, I'm Tohidul Islam Rupok</h1>
+<h1 align="center">Hello 😊, I'm Tohidul Islam Rupok</h1>
 <h3 align="center">Backend Developer | Python Django Enthusiast | Exploring Machine Learning </h3>
 
 <p align="center">
