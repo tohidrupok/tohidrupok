@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tohidul+Islam+Rupok;Backend+Developer+%7C+Python+%26+Django;Machine+Learning+%2F+AI+Enthusiast;Building+scalable+systems+%2B+intelligent+apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tohidul+Islam+Rupok;Software+Developer+%40+InComIT+Solutions+Ltd.;IoT+Attendance+Systems+(ZKTeco)+%2B+ERP;Machine+Learning+%2F+AI+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,14 +18,16 @@
 
 ### 👋 About Me
 
-I'm a **Backend Developer** focused on building robust, scalable systems with **Python** and **Django**, and I'm actively deepening my skills in **Machine Learning / AI**, working with TensorFlow and classic ML tooling to build data-driven features.
+I'm a **Software Developer at InComIT Solutions Ltd.**, building robust, scalable systems with **Python** and **Django**, and I'm actively deepening my skills in **Machine Learning / AI**, working with TensorFlow and classic ML tooling to build data-driven features.
 
-- 🔭 Currently building **[Hamesha ERP Software](https://stracker.pkgitbd.com/)**
+- 💼 Currently working as a **Software Developer @ InComIT Solutions Ltd.**
+- 🖲️ Building **IoT-based Attendance Systems** with **ZKTeco (ZK) devices**
+- 🔭 Also working on **ERP software** — including **[Hamesha ERP](https://stracker.pkgitbd.com/)**
 - 🌱 Currently learning **TensorFlow**, deep learning fundamentals, and applied ML
 - 🧠 Interested in **research** — publishing and reading in IEEE / Springer venues
 - 👯 Shipped **[The Footwear Today](https://www.thefootweartoday.com/)**
 - 🤝 Core contributor on **[Property Exhibition](https://property-exhibition.netlify.app/)**
-- 💬 Ask me about **C++, Python, Django, Machine Learning, cPanel**
+- 💬 Ask me about **C++, Python, Django, IoT, ERP, Machine Learning, cPanel**
 - 📄 **[Resume / Experience](https://drive.google.com/file/d/1idOK-Epph5Ce-DyTWlAw1M_1SyT2Om3Y/view?usp=sharing)**
 - 📫 **tohidrupok@gmail.com**
 
@@ -85,6 +87,7 @@ I'm a **Backend Developer** focused on building robust, scalable systems with **
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetofthings&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
