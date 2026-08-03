@@ -27,6 +27,12 @@
 
 - 📄 [Check out my resume and experience](https://drive.google.com/file/d/1idOK-Epph5Ce-DyTWlAw1M_1SyT2Om3Y/view?usp=sharing)
 
+<h3 align="center">Research & Publications:</h3>
+<p align="center">
+  <a href="https://ieeexplore.ieee.org/" target="blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
+  <a href="https://link.springer.com/" target="blank"><img src="https://img.shields.io/badge/Springer-FFFFFF?style=for-the-badge&logo=springer&logoColor=black" alt="Springer" /></a>
+</p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidrupok" height="30" width="40" /></a>
