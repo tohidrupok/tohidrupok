@@ -1,90 +1,149 @@
-<h1 align="center">Hello😊, I'm Tohidul Islam Rupok</h1>
-<h3 align="center">Backend Developer | Python Django Enthusiast | Exploring Machine Learning </h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tohidrupok&label=Profile%20views&color=0e75b6&style=flat" alt="tohidrupok" />
-</p>
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tohidul+Islam+Rupok;Backend+Developer+%7C+Python+%26+Django;Machine+Learning+%2F+AI+Enthusiast;Building+scalable+systems+%2B+intelligent+apps" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidrupok" alt="tohidrupok" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://twitter.com/tohidrupok" target="blank"><img src="https://img.shields.io/twitter/follow/tohidrupok?logo=twitter&style=for-the-badge" alt="tohidrupok" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=tohidrupok&label=Profile%20views&color=00C2FF&style=for-the-badge" alt="tohidrupok" />
+<img src="https://img.shields.io/badge/dynamic/json?color=00C2FF&style=for-the-badge&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftohidrupok" alt="followers" />
 
-- 🔭 I’m currently working on [Hamesha ERP Software](https://stracker.pkgitbd.com/)
+</div>
 
-- 🌱 I’m currently learning **TensorFlow** and expanding my knowledge in **Machine Learning**.
+<br/>
 
-- 👯 I'm done with the project on [The Footwear Today](https://www.thefootweartoday.com/)
+<table align="center">
+<tr>
+<td valign="top" width="60%">
 
-- 🤝 I’m playing a key role in the project on [Property Exhibition](https://property-exhibition.netlify.app/)
+### 👋 About Me
 
-- 💬 Ask me about **C++, Python, Django, Cpanel, Machine Learning**.
+I'm a **Backend Developer** focused on building robust, scalable systems with **Python** and **Django**, and I'm actively deepening my skills in **Machine Learning / AI**, working with TensorFlow and classic ML tooling to build data-driven features.
 
-- 📫 Reach me at **tohidrupok@gmail.com**
+- 🔭 Currently building **[Hamesha ERP Software](https://stracker.pkgitbd.com/)**
+- 🌱 Currently learning **TensorFlow**, deep learning fundamentals, and applied ML
+- 🧠 Interested in **research** — publishing and reading in IEEE / Springer venues
+- 👯 Shipped **[The Footwear Today](https://www.thefootweartoday.com/)**
+- 🤝 Core contributor on **[Property Exhibition](https://property-exhibition.netlify.app/)**
+- 💬 Ask me about **C++, Python, Django, Machine Learning, cPanel**
+- 📄 **[Resume / Experience](https://drive.google.com/file/d/1idOK-Epph5Ce-DyTWlAw1M_1SyT2Om3Y/view?usp=sharing)**
+- 📫 **tohidrupok@gmail.com**
 
-- 📄 [Check out my resume and experience](https://drive.google.com/file/d/1idOK-Epph5Ce-DyTWlAw1M_1SyT2Om3Y/view?usp=sharing)
+</td>
+<td align="center" width="40%">
 
-<h3 align="center">Research & Publications:</h3>
-<p align="center">
-  <a href="https://ieeexplore.ieee.org/" target="blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
-  <a href="https://link.springer.com/" target="blank"><img src="https://img.shields.io/badge/Springer-FFFFFF?style=for-the-badge&logo=springer&logoColor=black" alt="Springer" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tohidrupok&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%"/>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://fb.com/heyrupok03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/propereducationbd-tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tohidrupok" height="30" width="40" /></a>
-  <a href="https://discord.gg/tohidrupok" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tohidrupok" height="30" width="40" /></a>
-</p>
+</td>
+</tr>
+</table>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /></a>
-</p>
+<br/>
 
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidrupok&show_icons=true&locale=en&layout=compact" alt="tohidrupok" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tohidrupok&show_icons=true&locale=en" alt="tohidrupok" />
-</p>
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tohidrupok&" alt="tohidrupok" />
-</p>
+</div>
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Machine Learning / AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📚 Research & Publications
+
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+![Springer](https://img.shields.io/badge/Springer-FFFFFF?style=for-the-badge&logo=springer&logoColor=black)
+
+*Exploring applied Machine Learning research — links to papers and proceedings coming soon.*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=tohidrupok&theme=tokyonight&no-frame=true&row=1&column=7" alt="tohidrupok trophies"/>
+
+</div>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohidrupok&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tohidrupok&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+<a href="https://twitter.com/tohidrupok" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/tohidrupok" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://fb.com/heyrupok03" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.youtube.com/c/propereducationbd-tohidrupok" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.hackerrank.com/tohidrupok" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://codeforces.com/profile/tohidrupok" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://discord.gg/tohidrupok" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="mailto:tohidrupok@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%"/>
+</div>
